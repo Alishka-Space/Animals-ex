@@ -1,0 +1,4 @@
+# Dolphin
+Dolphins range in size from the 1.7-metre-long (5 ft 7 in) and 50-kilogram (110-pound) Maui's dolphin to the 9.5 m (31 ft) and 10-tonne (11-short-ton) orca. Various species of dolphins exhibit sexual dimorphism where the males are larger than females. They have streamlined bodies and two limbs that are modified into flippers. Though not quite as flexible as seals, they are faster; some dolphins can briefly travel at speeds of 29 kilometres per hour (18 mph) or leap about 9 metres (30 ft).[1] Dolphins use their conical teeth to capture fast-moving prey. They have well-developed hearing which is adapted for both air and water. It is so well developed that some can survive even if they are blind. Some species are well adapted for diving to great depths. They have a layer of fat, or blubber, under the skin to keep warm in the cold water.
+---
+![Dolphin](https://github.com/Alishka-Space/Animals-ex/blob/main/dolphin.jpg?raw=true)
