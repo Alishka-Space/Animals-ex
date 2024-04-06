@@ -1,4 +1,4 @@
 # Pit Bull
 Pitbulls are amazing dogs,they all have so special characters!they are playful,loyal and lovely creatures there are hardly bad or aggressive pitbulls by nature if the dog is showing bad behavior it's mostly cause by bad breeding or bad raising by the owneres and there are no bad pets . People have to inform themselve about the needs of the dogs and must have time for bonding properly with their dogs Playing and walking and take care that dog has enough activities , in many households the pitbull is playing with kids and guarding them .
 ---
-![Pit bull](https://github.com/Alishka-Space/Animals-ex/blob/main/Pit%20bull.jpg?raw=true)
+![Pit Bull](https://github.com/Alishka-Space/Animals-ex/blob/main/Pit%20bull.jpg?raw=true)
